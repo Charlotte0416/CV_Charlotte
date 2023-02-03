@@ -1,5 +1,7 @@
-CV-Charlotte
+CV
 ================
+Charlotte
+2023-01-27
 
 # Education & Working experience
 
@@ -7,7 +9,7 @@ CV-Charlotte
 
 ### Education
 
-1.  *College of New oriental cooking school*
+1.  *College of Shanghai New oriental cooking school*
     - The beauty of Nacl
     - The history of Nacl
     - The practical use of Nacl
