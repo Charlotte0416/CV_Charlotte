@@ -1,15 +1,13 @@
 ---
-title: "CV"
-author: "Charlotte"
-date: "2023-01-27"
 output: github_document
-   toc: true 
-   toc_depth: 3
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+<h1 align="center">CV-Charlotte</h1>
+
 
 # Education & Working experience
 
@@ -24,13 +22,13 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### Previous employment 
 1. *Dog owner*
-   Aligned left (HTML) [*2010--Now*]{style="float:right"}
+   [*2010--Now*]{style="float:right"}
    
 2. *Chief*
-   Aligned left (HTML) [*2017--Now*]{style="float:right"}
+  [*2017--Now*]{style="float:right"}
     
 3. *Housekeeper*
-   Aligned left (HTML) [*all the time*]{style="float:right"}
+  [*all the time*]{style="float:right"}
 
     
 <br>
@@ -50,16 +48,14 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### Photo of current boss
 
-```{r, out.width = "50%" }
-
- <center>![CEO:Jo](/Users/charlotte/Desktop/Screen Shot 2023-02-03 at 1.08.31 PM.png)
-
-```
-     <center> **[copyright belongs to Miss.Jo]** </center>
+<img width="381" alt="Screen Shot 2023-02-03 at 1 08 31 PM" src="https://user-images.githubusercontent.com/123609913/216688355-8621afd2-9f87-4c0d-930d-b08d01c7ae52.png">
+ 
+   <center> **[copyright belongs to Miss.Jo]** </center>
 
 
 ### Photo of current co-worker
 
-<center>![Co-worker:Kiku](/Users/charlotte/Desktop/Screen Shot 2023-02-03 at 1.08.43 PM.png)
+<img width="393" alt="Screen Shot 2023-02-03 at 1 08 43 PM" src="https://user-images.githubusercontent.com/123609913/216688342-cdecd105-bbe7-4353-990c-c334c7e75ba0.png">
+
   <center> **[No copyright reserved]** </center>
 
