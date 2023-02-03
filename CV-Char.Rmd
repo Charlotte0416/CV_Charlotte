@@ -1,15 +1,12 @@
 ---
-title: "CV"
-author: "Charlotte"
-date: "2023-01-27"
+title: "CV-Charlotte"
 output: github_document
-   toc: true 
-   toc_depth: 3
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
 
 # Education & Working experience
 
@@ -17,7 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### Education
 
-1. *College of Shanghai New oriental cooking school*
+1. *College of New oriental cooking school*
    + The beauty of Nacl
    + The history of Nacl
    + The practical use of Nacl
@@ -50,12 +47,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### Photo of current boss
 
-```{r, out.width = "50%" }
-
  <center>![CEO:Jo](/Users/charlotte/Desktop/Screen Shot 2023-02-03 at 1.08.31 PM.png)
-
-```
-     <center> **[copyright belongs to Miss.Jo]** </center>
+ <center> **[copyright belongs to Miss.Jo]** </center>
 
 
 ### Photo of current co-worker
