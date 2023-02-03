@@ -12,34 +12,51 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# Education
+# Education & Working experience
 
 <br>
 
-## Undergrad
-1. *PITT A&S*
-   + Biological science
-   + German
+### Education
 
-## Grad
-1. *Cornell CALS*
-    + Animal Nutrition
+1. *College of Shanghai New oriental cooking school*
+   + The beauty of Nacl
+   + The history of Nacl
+   + The practical use of Nacl
+
+### Previous employment 
+1. *Dog owner*
+   Aligned left (HTML) [*2010--Now*]{style="float:right"}
+   
+2. *Chief*
+   Aligned left (HTML) [*2017--Now*]{style="float:right"}
+    
+3. *Housekeeper*
+   Aligned left (HTML) [*all the time*]{style="float:right"}
+
     
 <br>
 
 # Skills
+
 1. Sleep
-2. Serving my cats
+2. Serving the boss
 3. Eating ice-cream(extremely good at)
+
 
 <br>
 
 # Current Employement
-## Photo of current boss
-![CEO](/Users/charlotte/Desktop/DSC00042 copy.JPG)
-<center> [copyright belongs to Miss.T]
 
-## Photo of current co-worker
-![Co-worker](/Users/charlotte/Desktop/12.jpeg)
-<center> [not very smart]
+<br>
+
+### Photo of current boss
+
+  <center>![CEO:Jo](/Users/charlotte/Desktop/DSC00042 copy.JPG)
+     <center> **[copyright belongs to Miss.Jo]** </center>
+
+
+### Photo of current co-worker
+
+<center>![Co-worker:Kiku](/Users/charlotte/Desktop/12.jpeg)
+  <center> **[No copyright reserved]** </center>
 
