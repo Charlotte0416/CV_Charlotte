@@ -1,7 +1,5 @@
 ---
 title: "CV"
-author: "Charlotte"
-date: "2023-01-27"
 output: github_document
    toc: true 
    toc_depth: 3
@@ -11,13 +9,14 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+
 # Education & Working experience
 
 <br>
 
 ### Education
 
-1. *College of Shanghai New oriental cooking school*
+1. *College of New oriental cooking school*
    + The beauty of Nacl
    + The history of Nacl
    + The practical use of Nacl
