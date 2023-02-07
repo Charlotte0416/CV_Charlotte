@@ -38,23 +38,16 @@ CV-Charlotte
 
 ### Photo of current boss
 
-\<\<\<\<\<\<\< HEAD
 <img width="381" alt="Screen Shot 2023-02-03 at 1 08 31 PM" src="https://user-images.githubusercontent.com/123609913/216688355-8621afd2-9f87-4c0d-930d-b08d01c7ae52.png">
 
-=======
+CEO:Jo
 
-<center>
-
-![CEO:Jo](/Users/charlotte/Desktop/Screen%20Shot%202023-02-03%20at%201.08.31%20PM.png)
-
-<center>
 **\[copyright belongs to Miss.Jo\]**
-</center>
 
 ### Photo of current co-worker
 
 <img width="393" alt="Screen Shot 2023-02-03 at 1 08 43 PM" src="https://user-images.githubusercontent.com/123609913/216688342-cdecd105-bbe7-4353-990c-c334c7e75ba0.png">
 
-<center>
+Co-worker: Kiku
+
 **\[No copyright reserved\]**
-</center>
